@@ -8,3 +8,4 @@ labojam veel
 
 
 tresa diena
+pogas labosana uzpiucesan
